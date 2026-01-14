@@ -1,7 +1,7 @@
 {
   "name": "phone-store",
   "version": "1.0.0",
-  "homepage": "https://github.com/KirillBorisenko-git/CRM.git",
+  "homepage": "https://KirillBorisenko-github.io/CRM.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
