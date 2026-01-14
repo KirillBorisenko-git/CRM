@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link, useLocation } from 'react-router-dom';
 import { 
   Home, 
@@ -140,7 +140,7 @@ function Navigation() {
 function App() {
   return (
     <DataProvider>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <div style={{ minHeight: '100vh', backgroundColor: '#f5f5f5' }}>
           <Navigation />
           <main>
