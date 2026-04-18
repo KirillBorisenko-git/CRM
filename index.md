@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <meta name="description" content="Магазина телефонов" />
-    <title>Phone Store</title>
+    <title>Phone 2Store</title>
   </head>
   <body>
     <div id="root"></div>
